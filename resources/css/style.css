@@ -1,0 +1,11 @@
+.col-center {
+  justify-content: space-around;
+}
+
+.center {
+  align-items: center;
+}
+
+.vertical-center {
+  text-align: center;
+}
